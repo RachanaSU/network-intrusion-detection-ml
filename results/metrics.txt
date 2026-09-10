@@ -1,0 +1,12 @@
+Accuracy: 0.9704
+F1 (attack class): 0.9518
+
+              precision    recall  f1-score   support
+
+      attack       0.97      0.94      0.95       390
+      normal       0.97      0.99      0.98       860
+
+    accuracy                           0.97      1250
+   macro avg       0.97      0.96      0.97      1250
+weighted avg       0.97      0.97      0.97      1250
+
