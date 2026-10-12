@@ -72,6 +72,5 @@ traffic captures.
 
 ## Notes on process
 
-I used an AI tool (Claude) to help scaffold this project, debug the
-preprocessing pipeline, and write this README — the design decisions,
-testing, and final code are my own.
+I used an AI tool to help scaffold this project, debug the
+preprocessing pipeline — the design decisions, testing, and final code are my own.
